@@ -1,0 +1,6 @@
+[submodule "Mastermind-cmd"]
+	path = Mastermind-cmd
+	url = git@github.com:gmarsich/Mastermind-cmd.git
+[submodule "Mastermind-graphic"]
+	path = Mastermind-graphic
+	url = git@github.com:gmarsich/Mastermind-graphic.git
